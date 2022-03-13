@@ -1,6 +1,6 @@
 # Aircrack-ng Suite
 
-Aircrack-ng is an oper source tool for cracking and securing wireless network.  It is all in one suite allows you to keep an eye on WiFi security, and capture data packets. WiFi cards can be captured and injected to test their performance. It can also be used by pen testers to attack and crack the WPA and WEP protocols.
+Aircrack-ng is an open source tool for cracking and securing wireless network.  It is all in one suite allows you to keep an eye on WiFi security, and capture data packets. WiFi cards can be captured and injected to test their performance. It can also be used by pen testers to attack and crack the WPA and WEP protocols.
 
 It mainly focuses on four areas of wifi security:
 
