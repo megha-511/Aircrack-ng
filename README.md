@@ -123,8 +123,8 @@ That’s it! The wifi password will be cracked if it is common and simple by usi
 
 6. `sudo aircrack-ng wpa1.pcap -w /usr/share/wordlists/rockyou.txt`
 
-## Additional resources:
-Frame injection: [Github](https://github.com/aircrack-ng/rtl8188eus)
-[Frame Vs Packet](https://www.networkworld.com/article/3225865/ethernet-frames-and-packets-whats-the-difference.html)
-Fragment and Forge: Breaking Wi-Fi Through Frame Aggregation and Fragmentation[usenix2021.pdf (mathyvanhoef.com)](https://papers.mathyvanhoef.com/usenix2021.pdf)
-[4-way Handshake attack](https://netbeez.net/blog/secure-network-4-way-handshake/#:~:text=The%204-Way%20Handshake%20utilizes,Handshake%20occurs%20after%20EAP%20authentication.)
+## Reference and Additional resources:
+- Frame injection: [Github](https://github.com/aircrack-ng/rtl8188eus)
+- [Frame Vs Packet](https://www.networkworld.com/article/3225865/ethernet-frames-and-packets-whats-the-difference.html)
+- Fragment and Forge: Breaking Wi-Fi Through Frame Aggregation and Fragmentation[usenix2021.pdf (mathyvanhoef.com)](https://papers.mathyvanhoef.com/usenix2021.pdf)
+- [4-way Handshake attack](https://netbeez.net/blog/secure-network-4-way-handshake/#:~:text=The%204-Way%20Handshake%20utilizes,Handshake%20occurs%20after%20EAP%20authentication.)
