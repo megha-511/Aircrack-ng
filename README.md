@@ -34,7 +34,7 @@ Wesside-ng is a tool which incorporates a number of techniques to seamlessly obt
 The chipset we have is the TP-LINK TL-WN722N.
 
 
-<img src="https://github.com/megha-511/Aircrack-ng/blob/716796cfbd5b0d5b0b79b8e839f5a37b44827c3c/tplink.jpg" width="250" height="180" rotate="90">
+<p align="center"><img src="https://github.com/megha-511/Aircrack-ng/blob/716796cfbd5b0d5b0b79b8e839f5a37b44827c3c/tplink.jpg" width="300" height="300"></p>
 
 However, according to the list of compatible adaptors, Version 1 is the only version that is compatible, yet we received Version 3. To enable the monitor mode in V3, we followed a few steps. [Click here to view the steps](https://github.com/megha-511/Aircrack-ng/blob/8083e818320b3b7c8485f83ef2c2c9ac05138571/Enable%20monitoring%20mode%20in%20V2_3.docx)
 
@@ -93,7 +93,7 @@ That’s it! The wifi password will be cracked if it is common and simple by usi
 ## 2. besside-ng
 
 - How besside works?
-<img src="https://github.com/megha-511/Aircrack-ng/blob/716796cfbd5b0d5b0b79b8e839f5a37b44827c3c/How%20besside-ng%20works.jpg" width="150" height="280">
+<p align="center"><img src="https://github.com/megha-511/Aircrack-ng/blob/716796cfbd5b0d5b0b79b8e839f5a37b44827c3c/How%20besside-ng%20works.jpg" width="300" height="300"></p>
 
 - We have followed the below steps to auto capture the WPA handshake and crack using aircrack-ng:
 
